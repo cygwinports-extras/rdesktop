@@ -1,5 +1,5 @@
 category: Net
-requires: cygwin libgcc1 libiconv2 libsamplerate0 libX11_6 openssl
+requires: libgcc1 libiconv2 libsamplerate0 libX11_6 openssl
 sdesc: "Client for MS Terminal Services and Remote Desktop protocols"
 ldesc: "rdesktop is a client for Microsoft Windows NT Terminal Server, 
 Windows 2000 Terminal Services, Windows 2003 Terminal Services/Remote 
