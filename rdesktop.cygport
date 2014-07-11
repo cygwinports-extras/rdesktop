@@ -1,5 +1,5 @@
 NAME="rdesktop"
-VERSION=1.8.0
+VERSION=1.8.2
 RELEASE=1
 CATEGORY="Net"
 SUMMARY="Client for MS Terminal Services and Remote Desktop protocols"
